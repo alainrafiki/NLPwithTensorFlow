@@ -1,2 +1,2 @@
 # NLPwithTensorFlow
- Deep Learning Foundations: Natural Language Processsing with TensorFlow. LinkedIn Learning Course Exercises.
+ Deep Learning Foundations: Natural Language Processsing with TensorFlow. LinkedIn Learning Course Exercises (https://www.linkedin.com/learning-login/share?account=2045532&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdeep-learning-foundations-natural-language-processing-with-tensorflow%3Ftrk%3Dshare_ent_url%26shareId%3DYxFesi%252BbQoK1pHjbGrjYAQ%253D%253D).
